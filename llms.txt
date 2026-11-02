@@ -1,0 +1,7 @@
+# Blinqx Support (voorheen Faster Forward support)
+
+> support.fasterforward.nl is verhuisd naar https://support-eblinqx-connect.nl/. Alle kennisbankartikelen, releasenotes, nieuws en tips staan daar. Oude URLs verwijzen permanent door naar de nieuwe pagina.
+
+- [Blinqx Support](https://support-eblinqx-connect.nl/): kennisbank, releasenotes en support voor eBlinqx Connect (voorheen Elements)
+- [Kennisbank](https://support-eblinqx-connect.nl/kennisbank/)
+- [Zoeken](https://support-eblinqx-connect.nl/zoeken/)
